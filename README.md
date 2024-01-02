@@ -13,7 +13,7 @@ esta pasta possui os componentes, telas e estilos da aplicação
 * Phosphor icons (icones)
 
 ## *como utilizar:*
-para compilar é nessário que o  esteja instalado:
+para compilar é nessário que esteja instalado:
 * Node js
 
 e instalar algumas configurações para Styled components e para o Phosphor icons
